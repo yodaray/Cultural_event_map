@@ -1,12 +1,4 @@
-# 2023 CSCI2720 Course Project (Group 33)
-## Group members
-| Name | SID |
-| ------ | ------ |
-| Wong Yun Sum | 1155126184 |
-| Wong Yu Sum Jonas | 1155158882 |
-| Wong Ka Ho | 1155155541 |
-| Li Ka Wai |  1155175898 |
-| TEMP | TEMP_NUMBER |
+# Cultural Event Map
 ## User Guideline
 `STEP 1`: Open `MongoDB Compass`. Under `URI` type `mongodb://localhost:27017` and click `Connect`.
 <img width="1470" alt="Screenshot 2023-12-01 at 21 23 27" src="https://github.com/jonaswong1014/CSCI2720_Project/assets/107023977/fae44d15-07dd-4240-a03b-49f0a24afd2d">
