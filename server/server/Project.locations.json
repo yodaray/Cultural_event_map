@@ -1,0 +1,93 @@
+[
+  {
+    "_id": "639881c2081f9eda5329aaf8",
+    "locationId": 2,
+    "name": "Kwai Tsing Theatre (Lecture Room)",
+    "coordinates": {
+      "lat": 22.35665,
+      "lng": 114.12623
+    }
+  },
+  {
+    "_id": "6398824da6b11bf3856ee5da",
+    "locationId": 3,
+    "name": "Ngau Chi Wan Civic Centre (Theatre)",
+    "coordinates": {
+      "lat": 22.334583,
+      "lng": 114.208766
+    }
+  },
+  {
+    "_id": "639882b82f2be6f0a280627a",
+    "locationId": 4,
+    "name": "Ko Shan Theatre (New Wing Auditorium)",
+    "coordinates": {
+      "lat": 22.31368,
+      "lng": 114.18556
+    }
+  },
+  {
+    "_id": "6398833485b2dfe2843bb7d5",
+    "locationId": 5,
+    "name": "Sha Tin Town Hall (Lecture Room 1)",
+    "coordinates": {
+      "lat": 22.38136,
+      "lng": 114.1899
+    }
+  },
+  {
+    "_id": "639883718552f63953d83e04",
+    "locationId": 6,
+    "name": "North District Town Hall (Auditorium)",
+    "coordinates": {
+      "lat": 22.501639,
+      "lng": 114.128911
+    }
+  },
+  {
+    "_id": "639883e9a8f9ff4455c22255",
+    "locationId": 7,
+    "name": "Hong Kong Cultural Centre (Studio Theatre)",
+    "coordinates": {
+      "lat": 22.29386,
+      "lng": 114.17053
+    }
+  },
+  {
+    "_id": "6561fa8824cc17c2c0419fc6",
+    "locationId": 1,
+    "name": "Yuen Long Theatre (Auditorium)",
+    "coordinates": {
+      "lat": 22.44152,
+      "lng": 114.02289
+    },
+    "__v": 0
+  },
+  {
+    "_id": "6562084b4e16de03b6dd1b07",
+    "locationId": 8,
+    "name": "Sheung Wan Civic Centre (Lecture Hall)",
+    "coordinates": {
+      "lat": 22.28602,
+      "lng": 114.14967
+    }
+  },
+  {
+    "_id": "656208864e16de03b6dd1b09",
+    "locationId": 9,
+    "name": "Tuen Mun Town Hall (Exhibition Gallery)",
+    "coordinates": {
+      "lat": 22.39181,
+      "lng": 113.976771
+    }
+  },
+  {
+    "_id": "656208f84e16de03b6dd1b0a",
+    "locationId": 10,
+    "name": "Hong Kong City Hall (Exhibition Gallery)",
+    "coordinates": {
+      "lat": 22.282279,
+      "lng": 114.161545
+    }
+  }
+]

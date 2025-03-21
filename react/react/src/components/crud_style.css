@@ -1,0 +1,38 @@
+button {
+    background: navy;
+    color: white;
+    padding: 12px 24px;
+}
+
+.col-4.my-3 {
+    display: flex;
+    justify-content: center;
+}
+
+.edit_title {
+    background: navy;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.text-center {
+    width: 50%;
+    margin: auto;
+}
+
+.form-control {
+    width: 50%;
+    margin: auto;
+}
+
+label {
+    font-weight: bold;
+    color: navy;
+}
+
+h2 {
+    background: navy;
+    color: white;
+    text-align: center;
+}

@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6562f2714e16de03b6dd1b21"
+  },
+  "userId": 1,
+  "userAc": "admin",
+  "name": "admin",
+  "password": "admin",
+  "isAdmin": true,
+  "favourites": []
+},
+{
+  "_id": {
+    "$oid": "6562f2974e16de03b6dd1b22"
+  },
+  "userId": 2,
+  "userAc": "user1",
+  "name": "user1",
+  "password": "12345678",
+  "isAdmin": false,
+  "favourites": [
+    {
+      "$oid": "6398824da6b11bf3856ee5da"
+    },
+    {
+      "$oid": "6398833485b2dfe2843bb7d5"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6562f2ae4e16de03b6dd1b23"
+  },
+  "userId": 3,
+  "userAc": "user2",
+  "name": "user2",
+  "password": "87654321",
+  "isAdmin": false,
+  "favourites": []
+}]

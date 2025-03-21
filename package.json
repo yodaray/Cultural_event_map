@@ -1,0 +1,18 @@
+{
+  "name": "csci2720_project",
+  "version": "1.0.0",
+  "description": "To use localhost on this please follow the below steps: 1. Setting up a localhost Database with Name \"Project\" and create 4 collections \"events\", \"comments\", \"users\", \"locations\" 2. Import all the json.file in the database folder. Or you can only import \"comments\", \"users\", \"locations\". \"Event\" will be imported from the online xml file while the web app is running. 3. cd to react folder. type \"npm start\" in terminal. 4. cd to server folder. type \"npm run serve\" in terminal. 5. visit http://localhost:3000/ for client side and http://localhost:4000/ for server side",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "history": "^5.3.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router": "^6.20.1",
+    "react-scripts": "^5.0.1"
+  }
+}

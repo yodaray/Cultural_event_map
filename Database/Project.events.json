@@ -1,0 +1,1984 @@
+[{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d5f9"
+  },
+  "eventId": 154958,
+  "title": "'Cheers!' Series: Passengers by The 7 Fingers (Canada)",
+  "venue": {
+    "$oid": "656208864e16de03b6dd1b09"
+  },
+  "date": "1 Dec 2023 (Fri) 8:00pm\n2 Dec 2023 (Sat) 8:00pm\n3 Dec 2023 (Sun) 3:00pm",
+  "description": "The production takes train travel as the story background, a series of vignettes tells the unique stories of fateful encounters inside the cabin, a community of strangers with one thing in common: they all have somewhere to go. Passengers on this train express their dreams through the exuberance of their bodies. The astounding skills like the silks, flying trapeze, tightrope walking, juggling and hula hoops demonstrate the physical artistry and beauty of the performers. Passengers seamlessly combines dance, theatre, acrobatics, music and projections, celebrating the balance and the beauty of interpersonal relationships. Intertwining the railroad and human experience where we transition from farewells, new beginnings to reminiscences.",
+  "presenter": "Presented by Leisure and Cultural Services Department",
+  "price": "$380, 320, 260, 180",
+  "priceNum": 380,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d5fc"
+  },
+  "eventId": 154929,
+  "title": "‘Cheers!’ Series: Zorro by ALFA Theatre Pilsen (Czech Republic)",
+  "venue": {
+    "$oid": "639883e9a8f9ff4455c22255"
+  },
+  "date": "29 Dec 2023 (Fri) 8:00pm\n30 Dec 2023 (Sat) 3:00pm, 8:00pm\n31 Dec 2023 (Sun) 3:00pm",
+  "description": "Zorro is a puppet show that combines the elements of adventure, justice and comedy.  The Czech puppeteers can exquisitely control the puppets with ingenious dexterity with the live mariachi music band (Mexican folk music) to bring the extraordinary legend of Zorro to audience vividly.",
+  "presenter": "Presented by Leisure and Cultural Services Department",
+  "price": "$320, $260",
+  "priceNum": 320,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d5ff"
+  },
+  "eventId": 154930,
+  "title": "‘Cheers!’ Series: Zorro Workshop by ALFA Theatre Pilsen (Czech Republic)",
+  "venue": {
+    "$oid": "639883e9a8f9ff4455c22255"
+  },
+  "date": "31 Dec 2023 (Sun) 11:00am",
+  "description": "The puppeteers of Czech Republic will introduce the history of ALFA Theatre Pilsen, the structure and manipulation techniques of the puppets in the workshop.  Participants can enjoy close encounter with the traditional puppets from Czech Republic.",
+  "presenter": "Presented by Leisure and Cultural Services Department",
+  "price": "$120",
+  "priceNum": 120,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d602"
+  },
+  "eventId": 154984,
+  "title": "\"Elaha\" - German Film Forum: Generation Z",
+  "venue": {
+    "$oid": "639880355729c6ac2eb05c98"
+  },
+  "date": "15 March 2024 (Fri) 7:45pm",
+  "description": "A naked young woman is standing in front of a running washing machine. Flashback. 22-year-old Elaha tries all that she can to recover a supposed “innocence” that she has lost through sex. A plastic surgeon is set to help her. But she cannot come up with the money for the costly procedure. While looking for an alternative, she comes across a special product – a capsule of artificial blood. But what at first seems to be a solution to her problem ultimately forces her into self-exploitation.",
+  "presenter": "Presented by Goethe-Institut Hongkong",
+  "price": "$60",
+  "priceNum": 60,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d605"
+  },
+  "eventId": 154982,
+  "title": "\"My Son\" - German Film Forum: Generation Z",
+  "venue": {
+    "$oid": "639880355729c6ac2eb05c98"
+  },
+  "date": "19 January 2024 (Fri) 7:45pm",
+  "description": "Her daredevil son Jason's serious accident is a turning point in the life of photographer Marlene. When it becomes clear how severe Jason's injuries are, only a special rehab in Switzerland can help. Marlene decides to drive her son herself all the way from Berlin across Germany. Mother and son struggle for closeness and distance, disappointing their respective expectations and inevitably ending up in old conflicts. Something from the past is making its way to the surface, and it takes up more space with every kilometer they drive.",
+  "presenter": "Presented by Goethe-Institut Hongkong",
+  "price": "$60",
+  "priceNum": 60,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d609"
+  },
+  "eventId": 154964,
+  "title": "\"Nö\" - German Film Forum: Generation Z",
+  "venue": {
+    "$oid": "639880355729c6ac2eb05c98"
+  },
+  "date": "15 December 2023 (Fri) 7:45pm",
+  "description": "Dina and Michael are in their early thirties. He is a doctor, she is an actress. They are happy together until Michael thinks about breaking up. She says: NOPE (NÖ). In thirteen episodes, we then accompany our two heroes while they maneuver through life over the years and try to not lose sight of their love. \"NÖ\" is a film about love, how to find love and our struggles to live with love. It's a film about a generation in their thirties, who have everything, who have tried everything but who often still fail silently. The film exposes hidden states of mind and at the same time shows the important impact they have on our lives.",
+  "presenter": "Presented by Goethe-Institut Hongkong",
+  "price": "$60",
+  "priceNum": 60,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d60e"
+  },
+  "eventId": 154983,
+  "title": "\"One in a Million\" - German Film Forum: Generation Z",
+  "venue": {
+    "$oid": "639880355729c6ac2eb05c98"
+  },
+  "date": "16 February 2024 (Fri) 7:45pm",
+  "description": "\"One in a Million\" tells the story of two girls coming of age. As gymnast and YouTuber Whitney Bjerken from the US struggles with setbacks, she turns to music to express her feelings. Yara from Germany is one of her biggest fans and and part of a show-acrobatics team. When she falls in love with a girl for the very first time, she barely finds time for her fan account anymore. A documentary coming-of-age film about success and loneliness, friendship and first love, coming out as queer and having the courage to find your voice.",
+  "presenter": "Presented by Goethe-Institut Hongkong",
+  "price": "$60",
+  "priceNum": 60,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d613"
+  },
+  "eventId": 155629,
+  "title": "\"The Heart's Journey - from the Apennines to the Andes\" by Hong Kong Theatre Works - North District Town Hall Venue Partnership Scheme",
+  "venue": {
+    "$oid": "639883718552f63953d83e04"
+  },
+  "date": "2023\n15 Dec (FRI) 7:30PM\n16 Dec (SAT) 11:30AM, 4:00PM\n17 Dec (SUN) 11:30AM, 4:00PM\n23 Dec (SAT) 11:30AM*,4:00PM\n24 Dec (SUN) 11:30AM",
+  "description": "15 Dec 2023 (FRI) 7:30PM\n16 Dec 2023 (SAT) 11:30AM, 4:00PM\n17 Dec 2023 (SUN) 11:30AM, 3:00PM\n23 Dec 2023 (SAT) 11:30AM*,4:00PM\n24 Dec 2023 (SUN) 11:30AM\n*Accessible performance on 23 Dec, 11:30 am. Tickets not for public sales.",
+  "presenter": "Hong Kong Theatre Works",
+  "price": "$220",
+  "priceNum": 220,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d618"
+  },
+  "eventId": 155014,
+  "title": "(Chinese Painting and Calligraphy Exhibition)",
+  "venue": {
+    "$oid": "656208f84e16de03b6dd1b0a"
+  },
+  "date": "10 Dec 2023 (Sun) 2:00pm - 7:00pm\n11-12 Dec 2023 (Mon-Tue) 10:00am - 7:00pm\n13 Dec 2023 (Wed) 10:00am - 6:00pm",
+  "description": "",
+  "presenter": "Presented by Joy in Chinese Art Association",
+  "price": "Free Admission",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d61d"
+  },
+  "eventId": 154809,
+  "title": "A Musical Tour of China's North and South",
+  "venue": {
+    "$oid": "639883e9a8f9ff4455c22255"
+  },
+  "date": "29-30/03/2024(Fri-Sat)20:00",
+  "description": "",
+  "presenter": "Presented by Hong Kong Chinese Orchestra Limited",
+  "price": "$300;$250",
+  "priceNum": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d622"
+  },
+  "eventId": 154955,
+  "title": "Annual Dancing Variety Show of STAA",
+  "venue": {
+    "$oid": "656208864e16de03b6dd1b09"
+  },
+  "date": "30 Dec 2023 (Sat) 3:30pm",
+  "description": "",
+  "presenter": "Presented by Sha Tin Arts Association",
+  "price": "$80",
+  "priceNum": 80,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d627"
+  },
+  "eventId": 152046,
+  "title": "Art Course",
+  "venue": {
+    "$oid": "6398833485b2dfe2843bb7d5"
+  },
+  "date": "1 Jul to 30 Dec 2023 (Every Sat) 9:00am-4:30pm (Except 4/11, 11/11, 18/11, 25/11)",
+  "description": "",
+  "presenter": "Presented by Hong Kong Modern Art Association",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d62c"
+  },
+  "eventId": 155015,
+  "title": "Art of Tina Fong",
+  "venue": {
+    "$oid": "656208f84e16de03b6dd1b0a"
+  },
+  "date": "14 Dec 2023 (Thu) 3:00pm - 7:00pm\n15-16 Dec 2023 (Fri-Sat) 10:00am - 7:00pm\n17 Dec 2023 (Sun) 10:00am - 5:00pm",
+  "description": "",
+  "presenter": "Presented by Szeto's Cang Cheng Art Studio",
+  "price": "Free Admission",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d631"
+  },
+  "eventId": 152264,
+  "title": "Art Painting Class",
+  "venue": {
+    "$oid": "6398833485b2dfe2843bb7d5"
+  },
+  "date": "7 Jul to 29 Dec 2023 (Every Fri) 9:30am-11:30am (Except 3/11, 10/11, 17/11, 24/11)",
+  "description": "",
+  "presenter": "Presented by Mission Art Studio",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d636"
+  },
+  "eventId": 151392,
+  "title": "Artcity Art Class",
+  "venue": {
+    "$oid": "6398833485b2dfe2843bb7d5"
+  },
+  "date": "3 Jul to 27 Dec 2023 (Every Mon, Wed) 5:00pm-7:00pm (Except 2/10, 23/10, 25/12)",
+  "description": "",
+  "presenter": "Presented by ART CITY",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d63b"
+  },
+  "eventId": 155016,
+  "title": "Arts for Heart 2023",
+  "venue": {
+    "$oid": "656208f84e16de03b6dd1b0a"
+  },
+  "date": "18 Dec 2023 (Mon) 3:00pm - 7:00pm\n19-20 Dec 2023 (Tue-Wed) 10:30am - 7:00pm\n21 Dec 2023 (Thu) 10:30am - 4:00pm",
+  "description": "",
+  "presenter": "Presented by The Heart Touch Charity Foundation",
+  "price": "Free Admission",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d640"
+  },
+  "eventId": 153268,
+  "title": "Ballet Classes",
+  "venue": {
+    "$oid": "639882b82f2be6f0a280627a"
+  },
+  "date": "July-Dec 2023(Every Sat) 0900-0930",
+  "description": "",
+  "presenter": "Presented by Christine Liao School of Ballet",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d645"
+  },
+  "eventId": 153269,
+  "title": "Ballet Classes",
+  "venue": {
+    "$oid": "639882b82f2be6f0a280627a"
+  },
+  "date": "July-Dec 2023(Every Sat) 0930-1130",
+  "description": "",
+  "presenter": "Presented by Christine Liao School of Ballet",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d64a"
+  },
+  "eventId": 153270,
+  "title": "Ballet Classes",
+  "venue": {
+    "$oid": "639882b82f2be6f0a280627a"
+  },
+  "date": "July-Dec 2023(Every Sat) 1130-1200",
+  "description": "",
+  "presenter": "Presented by Christine Liao School of Ballet",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d64f"
+  },
+  "eventId": 153271,
+  "title": "Ballet Classes",
+  "venue": {
+    "$oid": "639882b82f2be6f0a280627a"
+  },
+  "date": "July-Dec 2023(Every Sat) 1200-1400",
+  "description": "",
+  "presenter": "Presented by Christine Liao School of Ballet",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d654"
+  },
+  "eventId": 153306,
+  "title": "Bee's Drawing Classes",
+  "venue": {
+    "$oid": "639882b82f2be6f0a280627a"
+  },
+  "date": "July-Dec 2023(Every Fri) 1700-1900",
+  "description": "",
+  "presenter": "Presented by Bee's Gallery Ltd.",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d659"
+  },
+  "eventId": 151269,
+  "title": "Calligraphy Class",
+  "venue": {
+    "$oid": "6398833485b2dfe2843bb7d5"
+  },
+  "date": "4 Jul to 19 Dec 2023 (Every Tue) 9:30am-11:30pm (Except 7/11, 14/11, 21/11, 28/11)",
+  "description": "",
+  "presenter": "Presented by 清華書畫學會",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d65e"
+  },
+  "eventId": 154945,
+  "title": "Cantonese Music Sings Awareness",
+  "venue": {
+    "$oid": "639883718552f63953d83e04"
+  },
+  "date": "31 Dec 2023 (Sun) 2:00pm",
+  "description": "",
+  "presenter": "Presented by Happy Singing Together Chinese Opera Association",
+  "price": "Free admission by tickets",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d663"
+  },
+  "eventId": 155628,
+  "title": "Cantonese Opera by The Cantonese Opera Advancement Association - Forever Excellence Opera Troupe - Sha Tin Town Hall Venue Partnership Scheme",
+  "venue": {
+    "$oid": "656208864e16de03b6dd1b09"
+  },
+  "date": "13-15 Dec 2023 (WED-FRI) 7:30pm",
+  "description": "13/12 7:30pm “Jade Disk”\t14/12 7:30pm “The Sounds of Battle”\t15/12 7:30pm “Tianbao and Jingniang”",
+  "presenter": "Presented by Forever Excellence Opera Troupe of The Cantonese Opera Advancement Association",
+  "price": "$420, 360, 300, 240, 200",
+  "priceNum": 420,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d668"
+  },
+  "eventId": 155627,
+  "title": "Cantonese Opera by The Cantonese Opera Advancement Association - Lung Kui Kam Yuen Court - Sha Tin Town Hall Venue Partnership Scheme",
+  "venue": {
+    "$oid": "656208864e16de03b6dd1b09"
+  },
+  "date": "20238/12(Fri)  19:30 9/12(Sat)  13:309/12(Sat)  19:3010/12(Sun)  13:3010/12(Sun)  19:30",
+  "description": "In Cantonese\t8/12 7:30pm \"Lau Kam-ting Thrashes Fire-dragon\"\t9/12 1:30pm&nbsp; \"Death in the Shrine\"\t9/12 7:30pm&nbsp; \"Twin-spear Luk Man-lung\"\t10/12 1:30pm&nbsp; \"Blush on Arrow\"\t10/12 7:30pm&nbsp; \"Dragon Carp &amp; Phoenix\"",
+  "presenter": "Presented by The Cantonese Opera Advancement Association - Lung Kui Kam Yuen Court",
+  "price": "$420, 360, 280, 200",
+  "priceNum": 420,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d66d"
+  },
+  "eventId": 151259,
+  "title": "Cantonese Opera Class by Hang Fei Music Centre",
+  "venue": {
+    "$oid": "639881c2081f9eda5329aaf8"
+  },
+  "date": "6 Jul 2023 -  28 Dec 2023 (Every Thu) 12:00nn-2:00pm",
+  "description": "",
+  "presenter": "Presented by Hang Fei Music Centre",
+  "price": "Admission by Enrolment",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d672"
+  },
+  "eventId": 155710,
+  "title": "Cantonese Opera Excerpts",
+  "venue": {
+    "$oid": "6561fa8824cc17c2c0419fc6"
+  },
+  "date": "31/12/2023 (Sun) 14:15 & 19:15",
+  "description": "",
+  "presenter": "Presented by Choy Sing Cantonese Opera",
+  "price": "Free admission by tickets",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d677"
+  },
+  "eventId": 155706,
+  "title": "Cantonese Opera Excerpts",
+  "venue": {
+    "$oid": "6561fa8824cc17c2c0419fc6"
+  },
+  "date": "9/12/2023 (Sat)  14:15",
+  "description": "",
+  "presenter": "Presented by Chinese Arts and Culture Association",
+  "price": "HK$180, 90, 50",
+  "priceNum": 180,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d67c"
+  },
+  "eventId": 154182,
+  "title": "Cantonese Opera Excerpts",
+  "venue": {
+    "$oid": "639883718552f63953d83e04"
+  },
+  "date": "28 Nov 2023 (Tue) 2:15pm, 7:15pm",
+  "description": "",
+  "presenter": "Presented by Golden Age Chinese Arts",
+  "price": "Free admission by tickets",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d681"
+  },
+  "eventId": 155686,
+  "title": "Cantonese Opera Excerpts and Cantonese Operatic Songs Concert",
+  "venue": {
+    "$oid": "6562084b4e16de03b6dd1b07"
+  },
+  "date": "11/12/2023(Mon) 14:15",
+  "description": "",
+  "presenter": "Presented by Lighten Music Club",
+  "price": "Free admission by tickets",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d686"
+  },
+  "eventId": 154949,
+  "title": "Cantonese Opera Excerpts and Operatic Songs Concert",
+  "venue": {
+    "$oid": "656208864e16de03b6dd1b09"
+  },
+  "date": "7 Dec 2023 (Thu) 7:00pm",
+  "description": "",
+  "presenter": "Presented by Man Yu Lok Tsui Cantonese Singing Association",
+  "price": "Free admission by tickets",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d68b"
+  },
+  "eventId": 154950,
+  "title": "Cantonese Opera Excerpts and Operatic Songs Concert",
+  "venue": {
+    "$oid": "656208864e16de03b6dd1b09"
+  },
+  "date": "11 Dec 2023 (Mon) 7:00pm",
+  "description": "",
+  "presenter": "Presented by Charming Peony Cantonese Music Association",
+  "price": "Free admission by tickets",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d690"
+  },
+  "eventId": 154954,
+  "title": "Cantonese Opera Excerpts and Operatic Songs Concert",
+  "venue": {
+    "$oid": "656208864e16de03b6dd1b09"
+  },
+  "date": "25 Dec 2023 (Mon) 7:00pm",
+  "description": "",
+  "presenter": "Presented by 趣雅藝苑",
+  "price": "Free admission by tickets",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d695"
+  },
+  "eventId": 155709,
+  "title": "Cantonese Opera Performance",
+  "venue": {
+    "$oid": "6561fa8824cc17c2c0419fc6"
+  },
+  "date": "27/12/2023 (Wed) 19:15",
+  "description": "",
+  "presenter": "Presented by Yuen Long District Arts Committee",
+  "price": "HK$200, 100, 80, 60",
+  "priceNum": 200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d69a"
+  },
+  "eventId": 151296,
+  "title": "Cantonese Opera Training Class - Presented by Melody Cantonese Opera Laboratory",
+  "venue": {
+    "$oid": "639881c2081f9eda5329aaf8"
+  },
+  "date": "7 Jul 2023 - 29 Dec 2023 (Every Fri) 12:00pm-2:00pm",
+  "description": "",
+  "presenter": "Presented by Melody Cantonese Opera Laboratory",
+  "price": "Admission by Enrolment",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d69f"
+  },
+  "eventId": 153272,
+  "title": "Cantonese Opera Training Classes",
+  "venue": {
+    "$oid": "639882b82f2be6f0a280627a"
+  },
+  "date": "July-Dec 2023(Every Sun) 1430-1630",
+  "description": "",
+  "presenter": "Presented by Opera Artist Club",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d6a5"
+  },
+  "eventId": 153273,
+  "title": "Cantonese Opera Training Classes",
+  "venue": {
+    "$oid": "639882b82f2be6f0a280627a"
+  },
+  "date": "July-Dec 2023(Every Sun) 1700-1900",
+  "description": "",
+  "presenter": "Presented by Opera Artist Club",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d6aa"
+  },
+  "eventId": 152263,
+  "title": "Cantonese Operatic Singing Class",
+  "venue": {
+    "$oid": "6398833485b2dfe2843bb7d5"
+  },
+  "date": "3 Jul to 27 Dec 2023 (Every Mon) 7:30pm-9:30pm (Except 2/10, 23/10, 25/12) ; (Every Wed) 2:30pm-4:30pm (Except 1/11, 8/11, 15/11, 22/11, 29/11)",
+  "description": "",
+  "presenter": "Presented by Golden Palace Cantonese Musicals Troupe",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d6af"
+  },
+  "eventId": 151256,
+  "title": "Cantonese Operatic Song Workshop- Presented by Edelweiss Chinese Musical Art Workshop",
+  "venue": {
+    "$oid": "639881c2081f9eda5329aaf8"
+  },
+  "date": "3 July 2023 -  18 Dec 2023 (Every Mon) 2:30pm-4:30pm",
+  "description": "",
+  "presenter": "Presented by Edelweiss Chinese Musical Art Workshop",
+  "price": "Admission by Enrolment, Free admission",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d6b4"
+  },
+  "eventId": 153264,
+  "title": "Cantonese Operatic Songs & Cantonese Opera Classes",
+  "venue": {
+    "$oid": "639882b82f2be6f0a280627a"
+  },
+  "date": "July-Dec 2023(Every Tue) 1930-2130",
+  "description": "",
+  "presenter": "Presented by Phoenix Cantonese Opera Troupe",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d6b9"
+  },
+  "eventId": 153265,
+  "title": "Cantonese Operatic Songs & Cantonese Opera Classes",
+  "venue": {
+    "$oid": "639882b82f2be6f0a280627a"
+  },
+  "date": "July-Dec 2023(Every Tue) 2130-2300",
+  "description": "",
+  "presenter": "Presented by Phoenix Cantonese Opera Troupe",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d6be"
+  },
+  "eventId": 151380,
+  "title": "Cantonese Operatic Songs Class",
+  "venue": {
+    "$oid": "6398833485b2dfe2843bb7d5"
+  },
+  "date": "3 Jul to 18 Dec 2023 (Every Mon) 12:00nn-2:00pm (Except 2/10, 23/10, 6/11, 13/11, 20/11, 27/11)",
+  "description": "",
+  "presenter": "Presented by 凰軒藝舍",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d6c3"
+  },
+  "eventId": 151381,
+  "title": "Cantonese Operatic Songs Class",
+  "venue": {
+    "$oid": "6398833485b2dfe2843bb7d5"
+  },
+  "date": "5 Jul to 27 Dec 2023 (Every Wed) 9:30am-11:30am (Except 1/11, 8/11, 15/11, 22/11, 29/11)",
+  "description": "",
+  "presenter": "Presented by Melody Cantonese Operatic Troupe",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d6c8"
+  },
+  "eventId": 152088,
+  "title": "Cantonese Operatic Songs Class",
+  "venue": {
+    "$oid": "6398833485b2dfe2843bb7d5"
+  },
+  "date": "4 Jul to 19 Dec 2023 (Every Tue) 2:30pm-4:30pm (Except 7/11, 14/11, 21/11, 28/11)",
+  "description": "",
+  "presenter": "Presented by Jade Flower Cantonese Operatic Society",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d6cd"
+  },
+  "eventId": 152049,
+  "title": "Cantonese Operatic Songs Class",
+  "venue": {
+    "$oid": "6398833485b2dfe2843bb7d5"
+  },
+  "date": "6 Jul to 28 Dec 2023 (Every Thu) 9:30am - 11:30am (Except 2/11, 9/11, 16/11, 23/11, 30/11)",
+  "description": "",
+  "presenter": "Presented by Ming Wai Music Association",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d6d2"
+  },
+  "eventId": 151254,
+  "title": "Cantonese Operatic Songs Class by Sin Lok Music Art",
+  "venue": {
+    "$oid": "639881c2081f9eda5329aaf8"
+  },
+  "date": "Jul 2023 - Dec 2023 (Every Thu) 7:30pm - 9:30pm",
+  "description": "",
+  "presenter": "Presented by Sin Lok Music Art",
+  "price": "Admission by Enrolment",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d6d7"
+  },
+  "eventId": 151255,
+  "title": "Cantonese Operatic Songs Class by Sin Lok Music Art",
+  "venue": {
+    "$oid": "639881c2081f9eda5329aaf8"
+  },
+  "date": "Jun 2023 - Dec 2023 (Every Mon) 9:30am-11:30am",
+  "description": "",
+  "presenter": "Presented by Sin Lok Music Art",
+  "price": "Admission by Enrolment",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d6dc"
+  },
+  "eventId": 151258,
+  "title": "Cantonese Operatic Songs Class by Tak Fook Opera House",
+  "venue": {
+    "$oid": "639881c2081f9eda5329aaf8"
+  },
+  "date": "6 Jul 2023- 28 Dec 2023 (Every Thu) 09:30am-11:30am",
+  "description": "",
+  "presenter": "Presented by Tak Fook Opera House",
+  "price": "Admission by Enrolment ($400/8 sessions)",
+  "priceNum": 400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d6e1"
+  },
+  "eventId": 153267,
+  "title": "Cantonese Operatic Songs Classes",
+  "venue": {
+    "$oid": "639882b82f2be6f0a280627a"
+  },
+  "date": "July-Dec 2023(Every Fri) 1430-1630",
+  "description": "",
+  "presenter": "Presented by Kwun Ying Association",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d6e6"
+  },
+  "eventId": 153266,
+  "title": "Cantonese Operatic Songs Classes",
+  "venue": {
+    "$oid": "639882b82f2be6f0a280627a"
+  },
+  "date": "July-Dec 2023(Every Mon) 1430-1630",
+  "description": "",
+  "presenter": "Presented by Kwun Ying Association",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d6eb"
+  },
+  "eventId": 154943,
+  "title": "Cantonese Operatic Songs Concert",
+  "venue": {
+    "$oid": "639883718552f63953d83e04"
+  },
+  "date": "29 Dec 2023 (Fri) 2:00pm",
+  "description": "",
+  "presenter": "Presented by Angel Song Association",
+  "price": "Free admission by tickets",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d6f0"
+  },
+  "eventId": 154939,
+  "title": "Cantonese Operatic Songs Concert",
+  "venue": {
+    "$oid": "639883718552f63953d83e04"
+  },
+  "date": "3 Dec 2023 (Sun) 2:00pm",
+  "description": "",
+  "presenter": "Presented by Analog Music Association",
+  "price": "Free admission by tickets",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d6f5"
+  },
+  "eventId": 154937,
+  "title": "Cantonese Operatic Songs Concert",
+  "venue": {
+    "$oid": "639883718552f63953d83e04"
+  },
+  "date": "1 Dec 2023 (Fri) 2:00pm, 7:00pm",
+  "description": "",
+  "presenter": "Presented by Cheerful Singing Group",
+  "price": "Free admission by tickets",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d6fa"
+  },
+  "eventId": 155705,
+  "title": "Cantonese Operatic Songs Concert",
+  "venue": {
+    "$oid": "6561fa8824cc17c2c0419fc6"
+  },
+  "date": "8/12/2023 (Fri) 14:15 & 19:15",
+  "description": "",
+  "presenter": "-",
+  "price": "Free admission by tickets",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d6ff"
+  },
+  "eventId": 154183,
+  "title": "Cantonese Operatic Songs Concert",
+  "venue": {
+    "$oid": "639883718552f63953d83e04"
+  },
+  "date": "29 Nov 2023 (Wed) 2:00pm",
+  "description": "",
+  "presenter": "Presented by Classical Music Art",
+  "price": "Free admission by tickets",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d704"
+  },
+  "eventId": 154957,
+  "title": "Cantonese Operatic Songs Concert",
+  "venue": {
+    "$oid": "656208864e16de03b6dd1b09"
+  },
+  "date": "31 Dec 2023 (Sun) 2:00pm",
+  "description": "",
+  "presenter": "Presented by Tung Lok Cantonese Singing Association",
+  "price": "Free admission by tickets",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d709"
+  },
+  "eventId": 155684,
+  "title": "Cantonese Operatic Songs Concert",
+  "venue": {
+    "$oid": "6562084b4e16de03b6dd1b07"
+  },
+  "date": "06/12/2023(Wed) 14:15",
+  "description": "",
+  "presenter": "Presented by Tin Tsz Respect for the Aged Association",
+  "price": "Free admission by tickets",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d70e"
+  },
+  "eventId": 154948,
+  "title": "Cantonese Operatic Songs Concert",
+  "venue": {
+    "$oid": "656208864e16de03b6dd1b09"
+  },
+  "date": "6 Dec 2023 (Wed) 7:00pm",
+  "description": "",
+  "presenter": "Presented by Corridor Art Troupe",
+  "price": "Free admission by tickets",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d713"
+  },
+  "eventId": 154938,
+  "title": "Cantonese Operatic Songs Concert",
+  "venue": {
+    "$oid": "639883718552f63953d83e04"
+  },
+  "date": "2 Dec 2023 (Sat) 2:00pm",
+  "description": "",
+  "presenter": "Presented by 龍仔樂社",
+  "price": "Free admission by tickets",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d718"
+  },
+  "eventId": 151295,
+  "title": "Cantonese Operatic Songs Training Class - Presented by Ngai Ming Musical Association",
+  "venue": {
+    "$oid": "639881c2081f9eda5329aaf8"
+  },
+  "date": "4 Jul 2023 - 19 Dec 2023 (Every Tue) 2:30pm-4:30pm",
+  "description": "",
+  "presenter": "Presented by Ngai Ming Musical Association",
+  "price": "Admission by Enrolment ($300/4 sessions)",
+  "priceNum": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d71d"
+  },
+  "eventId": 151257,
+  "title": "Cantonese Operatic Songs Training Class - Presented by Sin Fai Cantonese Opera Association",
+  "venue": {
+    "$oid": "639881c2081f9eda5329aaf8"
+  },
+  "date": "5 Jul 2023 - 27 Dec 2023(Every Wed) 2:30pm-4:30pm",
+  "description": "",
+  "presenter": "Presented by Sin Fai Cantonese Opera Association",
+  "price": "Admission by Enrolment",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d722"
+  },
+  "eventId": 151298,
+  "title": "Cantonese Operatic Songs Training Class - Presented by Ying Ying Music Art",
+  "venue": {
+    "$oid": "639881c2081f9eda5329aaf8"
+  },
+  "date": "5 Jul 2023 - 27 Dec 2023 (Every Wed) 12:00nn-2:00pm",
+  "description": "",
+  "presenter": "Presented by Ying Ying Music Art",
+  "price": "Admission by Enrolment",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d727"
+  },
+  "eventId": 151297,
+  "title": "Cantonese Operatic Songs Training Class - Presented by 駿輝粵藝社",
+  "venue": {
+    "$oid": "639881c2081f9eda5329aaf8"
+  },
+  "date": "4 Jul 2023 - 19 Dec 2023 (Every Tue) 12:00nn-2:00pm",
+  "description": "",
+  "presenter": "Presented by 駿輝粵藝社",
+  "price": "Admission by Enrolment",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d72c"
+  },
+  "eventId": 153274,
+  "title": "Cantonese Operatic Songs Training Classes",
+  "venue": {
+    "$oid": "639882b82f2be6f0a280627a"
+  },
+  "date": "July-Dec 2023(Every Tue) 1430-1630",
+  "description": "",
+  "presenter": "Presented by Tuen Ngai Confederation Chinese Orchestra (Yuen Long Branch)",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d731"
+  },
+  "eventId": 155019,
+  "title": "Cheung Yuet Chun Individual Exhibition of Calligraphy and Painting",
+  "venue": {
+    "$oid": "656208f84e16de03b6dd1b0a"
+  },
+  "date": "29 Dec 2023 (Fri) 1:00pm - 6:00pm\n30 Dec 2023 (Sat) 10:00am - 7:00pm\n31 Dec 2023 (Sun) 10:00am - 6:00pm",
+  "description": "",
+  "presenter": "Presented by Calligraphy Shoots Organization",
+  "price": "Free Admission",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d736"
+  },
+  "eventId": 155013,
+  "title": "Chinese Antique Porcelain Exhibition",
+  "venue": {
+    "$oid": "656208f84e16de03b6dd1b0a"
+  },
+  "date": "1-3 Dec 2023 (Fri-Sun) 10:00am - 7:30pm",
+  "description": "",
+  "presenter": "Presented by Monoceros Corporate Management Professionals Association",
+  "price": "Free Admission",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d73b"
+  },
+  "eventId": 155685,
+  "title": "Chinese Music DSE",
+  "venue": {
+    "$oid": "6562084b4e16de03b6dd1b07"
+  },
+  "date": "09/12/2023(Sat) 20:00",
+  "description": "",
+  "presenter": "Presented by Hong Kong Chinese Orchestra",
+  "price": "$380; $300; $250; $200",
+  "priceNum": 380,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d740"
+  },
+  "eventId": 154808,
+  "title": "Chinese Winds Concert - Warbling City Birds",
+  "venue": {
+    "$oid": "639883e9a8f9ff4455c22255"
+  },
+  "date": "06/01/2024(Sat)20:00",
+  "description": "",
+  "presenter": "Presented by Hong Kong Chinese Orchestra Limited",
+  "price": "$300;$250",
+  "priceNum": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d745"
+  },
+  "eventId": 152067,
+  "title": "Choir Class",
+  "venue": {
+    "$oid": "6398833485b2dfe2843bb7d5"
+  },
+  "date": "7 Jul to 29 Dec 2023 (Every Fri) 12:00nn-2:00pm (Except 3/11, 10/11, 17/11, 24/11)",
+  "description": "",
+  "presenter": "Presented by Sha Tin Arts Association Limited",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d74a"
+  },
+  "eventId": 153316,
+  "title": "Dance Training Classes",
+  "venue": {
+    "$oid": "639882b82f2be6f0a280627a"
+  },
+  "date": "July-Dec 2023(Every Fri) 1930-2130",
+  "description": "",
+  "presenter": "Presented by Ling Lung Dance Group",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d74f"
+  },
+  "eventId": 153245,
+  "title": "Dance Training Classes",
+  "venue": {
+    "$oid": "639882b82f2be6f0a280627a"
+  },
+  "date": "July-Dec 2023(Every Sat) 1430-1630",
+  "description": "",
+  "presenter": "Presented by Yuen Long District Arts Committee",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d754"
+  },
+  "eventId": 153246,
+  "title": "Dance Training Classes",
+  "venue": {
+    "$oid": "639882b82f2be6f0a280627a"
+  },
+  "date": "July-Dec 2023(Every Sat) 1630-1700",
+  "description": "",
+  "presenter": "Presented by Yuen Long District Arts Committee",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d759"
+  },
+  "eventId": 153247,
+  "title": "Dance Training Classes",
+  "venue": {
+    "$oid": "639882b82f2be6f0a280627a"
+  },
+  "date": "July-Dec 2023(Every Sat) 1700-1900",
+  "description": "",
+  "presenter": "Presented by Yuen Long District Arts Committee",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d75e"
+  },
+  "eventId": 153256,
+  "title": "Dance Training Classes",
+  "venue": {
+    "$oid": "639882b82f2be6f0a280627a"
+  },
+  "date": "July-Dec 2023(Every Sun) 0930-1130",
+  "description": "",
+  "presenter": "Presented by Yuen Long District Arts Committee",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d763"
+  },
+  "eventId": 153252,
+  "title": "Dance Training Classes",
+  "venue": {
+    "$oid": "639882b82f2be6f0a280627a"
+  },
+  "date": "July-Dec 2023(Every Sun) 1200-1400",
+  "description": "",
+  "presenter": "Presented by Yuen Long District Arts Committee",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d768"
+  },
+  "eventId": 153255,
+  "title": "Dance Training Classes",
+  "venue": {
+    "$oid": "639882b82f2be6f0a280627a"
+  },
+  "date": "July-Dec 2023(Every Thur) 1700-1900",
+  "description": "",
+  "presenter": "Presented by Yuen Long District Arts Committee",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d76d"
+  },
+  "eventId": 153249,
+  "title": "Dance Training Classes",
+  "venue": {
+    "$oid": "639882b82f2be6f0a280627a"
+  },
+  "date": "July-Dec 2023(Every Wed) 1700-1900",
+  "description": "",
+  "presenter": "Presented by Yuen Long District Arts Committee",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d772"
+  },
+  "eventId": 152282,
+  "title": "Drama Class",
+  "venue": {
+    "$oid": "6398833485b2dfe2843bb7d5"
+  },
+  "date": "2 Jul to 31 Dec 2023 (Every Sun) 5:00pm-7:00pm (Except 1/10, 5/11, 12/11, 19/11, 26/11, 24/12)",
+  "description": "",
+  "presenter": "Presented by Amazing Drama",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d777"
+  },
+  "eventId": 155708,
+  "title": "Drama Society, City University of Hong Kong Student's Union, Freshmen Performance 2023",
+  "venue": {
+    "$oid": "6561fa8824cc17c2c0419fc6"
+  },
+  "date": "19-20/12/2023 (Tue-Wed) 19:30",
+  "description": "",
+  "presenter": "Presented by Drama Society, City University of Hong Kong Student's Union",
+  "price": "HK$100",
+  "priceNum": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d77c"
+  },
+  "eventId": 155010,
+  "title": "Exhibition of Hong Kong Visual Arts Education Festival 2023",
+  "venue": {
+    "$oid": "6398824da6b11bf3856ee5da"
+  },
+  "date": "20-27 Dec 2023 (Wed-Wed) 10:00am - 8:00pm",
+  "description": "",
+  "presenter": "Presented by Hong Kong Society for Education in Art",
+  "price": "Free Admission",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d781"
+  },
+  "eventId": 152261,
+  "title": "Gu Zheng Workshop",
+  "venue": {
+    "$oid": "6398833485b2dfe2843bb7d5"
+  },
+  "date": "4 Jul to 22 Dec 2023 (Every Tue, Fri) 5:00pm-9:30pm",
+  "description": "",
+  "presenter": "Presented by Sha Tin Gu Zheng Association",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d786"
+  },
+  "eventId": 152091,
+  "title": "Gu Zheng Workshop",
+  "venue": {
+    "$oid": "6398833485b2dfe2843bb7d5"
+  },
+  "date": "6 Jul to 21 Dec 2023 (Every Thu) 2:30pm-9:30pm (Except 2/11, 9/11, 16/11, 23/11, 30/11)",
+  "description": "",
+  "presenter": "Presented by Sha Tin Gu Zheng Association",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d78b"
+  },
+  "eventId": 154821,
+  "title": "Homage to Paco Pe�a Flamenco Concert 2023",
+  "venue": {
+    "$oid": "639883e9a8f9ff4455c22255"
+  },
+  "date": "05/12/2023(Tue)20:00",
+  "description": "",
+  "presenter": "Presented by Raymond Au & His Flamenco Troupe Los Duende",
+  "price": "$150;$160",
+  "priceNum": 150,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d790"
+  },
+  "eventId": 151284,
+  "title": "Hong Kong Shatin Chorus - Singing Class",
+  "venue": {
+    "$oid": "639881c2081f9eda5329aaf8"
+  },
+  "date": "5 Jul 2023 - 20 Dec 2023 (Every Tue) 9:30am - 11:30am",
+  "description": "",
+  "presenter": "Presented by Hong Kong Shatin Chorus",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d795"
+  },
+  "eventId": 155707,
+  "title": "Hong Kong Vigor Marching Band Annual Concert 2023",
+  "venue": {
+    "$oid": "6561fa8824cc17c2c0419fc6"
+  },
+  "date": "16/12/2023 (Sat) 19:30",
+  "description": "",
+  "presenter": "Presented by Hong Kong Vigor Marching Band",
+  "price": "HK$150",
+  "priceNum": 150,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d79a"
+  },
+  "eventId": 154822,
+  "title": "House of Detectives - Hong Kong Remakes",
+  "venue": {
+    "$oid": "639883e9a8f9ff4455c22255"
+  },
+  "date": "16/12/2023(Sat)19:30;17/12/2023(Sun)15:00;19-21/12/2023(Tue-Thu)19:30;22-23/12/2023(Fri-Sat)15:00,19:30;24/12/2023(Sun)15:00",
+  "description": "",
+  "presenter": "Presented by Theatre Space Foundation Limited",
+  "price": "16-24/12:A:$380;B:$280;C:$180;22/12/2023:D:$150",
+  "priceNum": 380,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d79f"
+  },
+  "eventId": 155688,
+  "title": "IEMA Annual Concert 2023",
+  "venue": {
+    "$oid": "6562084b4e16de03b6dd1b07"
+  },
+  "date": "27/12/2023(Wed) 19:15",
+  "description": "",
+  "presenter": "Presented by International Ensemble Music Academy",
+  "price": "Please contact the presenter for ticketing matter ($100)",
+  "priceNum": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d7a4"
+  },
+  "eventId": 154824,
+  "title": "Marimba Romance",
+  "venue": {
+    "$oid": "639883e9a8f9ff4455c22255"
+  },
+  "date": "06/12/2023(Wed)20:00",
+  "description": "",
+  "presenter": "Presented by HONG KONG DELIA BAND",
+  "price": "$350;$250;$150",
+  "priceNum": 350,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d7a9"
+  },
+  "eventId": 155018,
+  "title": "Mu Feng Art Club Fifth Exhibition",
+  "venue": {
+    "$oid": "656208f84e16de03b6dd1b0a"
+  },
+  "date": "25 Dec 2023 (Mon) 12:00nn - 8:00pm\n26-27 Dec 2023 (Tue-Wed) 10:00am - 8:00pm\n28 Dec 2023 (Thu) 10:00am - 6:00pm",
+  "description": "",
+  "presenter": "Presented by Mu Feng Art Club",
+  "price": "Free Admission",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d7ae"
+  },
+  "eventId": 152098,
+  "title": "Music Taining Class",
+  "venue": {
+    "$oid": "6398833485b2dfe2843bb7d5"
+  },
+  "date": "8 Jul to 30 Dec 2023 (Every Sat) 5:00pm-7:00pm (Except 30/9)",
+  "description": "",
+  "presenter": "Presented by Hong Kong Post-Modern Orchestra Association",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d7b3"
+  },
+  "eventId": 151283,
+  "title": "Music Training Class - Presented by Hong Kong Post-Modern Orchestra Association",
+  "venue": {
+    "$oid": "639881c2081f9eda5329aaf8"
+  },
+  "date": "2 Jul - 31 Dec 2023 (Every Sun)  2:30pm-4:30pm & 7:00pm-9:00pm",
+  "description": "",
+  "presenter": "Presented by Hong Kong Post-Modern Orchestra Association",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d7b8"
+  },
+  "eventId": 151303,
+  "title": "Music Training Class - Presented by Yip's Children's Choir Limited",
+  "venue": {
+    "$oid": "639881c2081f9eda5329aaf8"
+  },
+  "date": "1 Jul 2023 - 31 Dec 2023 (Every Sat) 9:30am-2:00pm & (Every Sun) 9:30am-4:30pm",
+  "description": "",
+  "presenter": "Presented by Yip's Children's Choir Limited",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d7bd"
+  },
+  "eventId": 154184,
+  "title": "Oldies Concert",
+  "venue": {
+    "$oid": "639883718552f63953d83e04"
+  },
+  "date": "30 Nov 2023 (Thu) 2:00pm, 7:00pm",
+  "description": "",
+  "presenter": "Presented by 天河文藝康樂金曲協進會",
+  "price": "Free admission by tickets",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d7c2"
+  },
+  "eventId": 154181,
+  "title": "Oldies Concert",
+  "venue": {
+    "$oid": "639883718552f63953d83e04"
+  },
+  "date": "27 Nov 2023 (Mon) 2:00pm, 7:00pm",
+  "description": "",
+  "presenter": "Presented by 知音樂聚歌舞團",
+  "price": "Free admission by tickets",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d7c7"
+  },
+  "eventId": 155687,
+  "title": "Oldies Concert",
+  "venue": {
+    "$oid": "6562084b4e16de03b6dd1b07"
+  },
+  "date": "12/12/2023(Tue) 19:15",
+  "description": "",
+  "presenter": "Presented by Share With Love",
+  "price": "$500; $300; $200; $120; $60",
+  "priceNum": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d7cc"
+  },
+  "eventId": 155704,
+  "title": "Oldies Concert",
+  "venue": {
+    "$oid": "6561fa8824cc17c2c0419fc6"
+  },
+  "date": "6/12/2023 (Wed) 19:15",
+  "description": "",
+  "presenter": "Presented by Hon Joy Vocal Music Cultural Association",
+  "price": "Free admission by tickets",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d7d1"
+  },
+  "eventId": 154941,
+  "title": "Pop Concert",
+  "venue": {
+    "$oid": "639883718552f63953d83e04"
+  },
+  "date": "27 Dec 2023 (Wed) 7:30pm",
+  "description": "",
+  "presenter": "Presented by Active Note Alliance",
+  "price": "Free admission by tickets",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d7d6"
+  },
+  "eventId": 154951,
+  "title": "Pop Concert",
+  "venue": {
+    "$oid": "656208864e16de03b6dd1b09"
+  },
+  "date": "12 Dec 2023 (Tue) 7:30pm",
+  "description": "",
+  "presenter": "Presented by Ziu Yang Chinese Opera Society",
+  "price": "$680, 480, 280",
+  "priceNum": 680,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d7db"
+  },
+  "eventId": 153263,
+  "title": "Rhythmic Gymnastics Class",
+  "venue": {
+    "$oid": "639882b82f2be6f0a280627a"
+  },
+  "date": "July-Dec 2023(Every Fri) 1430-1630",
+  "description": "",
+  "presenter": "Presented by Jenga Sports Association",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d7e0"
+  },
+  "eventId": 154953,
+  "title": "Sha Tin Children's Choir Annual Concert 2023",
+  "venue": {
+    "$oid": "656208864e16de03b6dd1b09"
+  },
+  "date": "17 Dec 2023 (Sun) 2:15pm, 7:30pm",
+  "description": "",
+  "presenter": "Presented by Sha Tin Arts Association",
+  "price": "$120, 80",
+  "priceNum": 120,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d7e5"
+  },
+  "eventId": 152068,
+  "title": "Sha Tin Children's Choir Choral Training Class",
+  "venue": {
+    "$oid": "6398833485b2dfe2843bb7d5"
+  },
+  "date": "2 Jul to 24 Dec 2023 (Every Sun) 2:30pm-4:30pm (Except 30/7, 1/10, 5/11, 12/11, 19/11, 26/11, 10/12, 17/12)",
+  "description": "",
+  "presenter": "Presented by Sha Tin Arts Association Limited",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d7ea"
+  },
+  "eventId": 154956,
+  "title": "Sha Tin Choir Annual Concert 2023",
+  "venue": {
+    "$oid": "656208864e16de03b6dd1b09"
+  },
+  "date": "30 Dec 2023 (Sat) 7:45pm",
+  "description": "",
+  "presenter": "Presented by Sha Tin Arts Association",
+  "price": "$80",
+  "priceNum": 80,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d7ef"
+  },
+  "eventId": 152063,
+  "title": "Sha Tin Choir Choral Training Class",
+  "venue": {
+    "$oid": "6398833485b2dfe2843bb7d5"
+  },
+  "date": "5 Jul to 27 Dec 2023 (Every Wed) 7:30pm -9:30pm",
+  "description": "",
+  "presenter": "Presented by Sha Tin Arts Association Limited",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d7f4"
+  },
+  "eventId": 155713,
+  "title": "Shanghai Style Painting Exhibition",
+  "venue": {
+    "$oid": "656208f84e16de03b6dd1b0a"
+  },
+  "date": "22 Dec 2023 (Fri) 3:00pm - 7:30pm\n23 Dec 2023 (Sat) 10:00am - 7:30pm\n24 Dec 2023 (Sun) 10:00am - 5:00pm",
+  "description": "",
+  "presenter": "Presented by 東方文化藝術交流社",
+  "price": "Free Admission",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d7f9"
+  },
+  "eventId": 154952,
+  "title": "Supernova Singers Singing Contest 2023",
+  "venue": {
+    "$oid": "656208864e16de03b6dd1b09"
+  },
+  "date": "16 Dec 2023 (Sat) 7:30pm",
+  "description": "",
+  "presenter": "Presented by Sha Tin Arts Association",
+  "price": "100",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d7fe"
+  },
+  "eventId": 152262,
+  "title": "Teaching of Cantonese Opera Singing Technique",
+  "venue": {
+    "$oid": "6398833485b2dfe2843bb7d5"
+  },
+  "date": "4 Jul to 26 Dec 2023 (Every Tue) 12:00nn-2:00pm (Except 7/11, 14/11, 21/11, 28/11)",
+  "description": "",
+  "presenter": "Presented by Yin Tak Chinese Opera Society",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d803"
+  },
+  "eventId": 155703,
+  "title": "The 30th Anniversary Show",
+  "venue": {
+    "$oid": "6561fa8824cc17c2c0419fc6"
+  },
+  "date": "5/12/2023 (Tue) 19:30",
+  "description": "",
+  "presenter": "Presented by CUHK Federation of Alumni Associations Thomas Cheung Secondary School",
+  "price": "Free admission by tickets",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d808"
+  },
+  "eventId": 155009,
+  "title": "The 78th Hong Kong International Salon of Photography 2023",
+  "venue": {
+    "$oid": "6398824da6b11bf3856ee5da"
+  },
+  "date": "12 Dec 2023 (Tue) 5:00pm - 8:00pm\n13-17 Dec 2023 (Wed-Sun) 10:00am - 7:00pm\n18 Dec 2023 (Mon) 10:00am - 5:00pm",
+  "description": "",
+  "presenter": "Presented by The Photographic Society of Hong Kong",
+  "price": "Free Admission",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d80d"
+  },
+  "eventId": 154231,
+  "title": "The Geneart Society Painting Exhibition",
+  "venue": {
+    "$oid": "656208f84e16de03b6dd1b0a"
+  },
+  "date": "24 Nov 2023 (Fri) 3:00pm - 7:00pm\n25-26 Nov 2023 (Sat-Sun) 10:30am - 7:00pm\n27 Nov 2023 (Mon) 10:30am - 5:00pm",
+  "description": "",
+  "presenter": "Presented by The Geneart Society",
+  "price": "Free Admission",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d812"
+  },
+  "eventId": 155012,
+  "title": "The Graduation Exhibition of Diploma Programme in New Ink Art (Cycle 3) - Naughty Inkers",
+  "venue": {
+    "$oid": "6398824da6b11bf3856ee5da"
+  },
+  "date": "29 Dec 2023 (Fri) 5:00pm-7:00pm\n30 Dec 2023 - 3 Jan 2024 (Sat-Wed) 11:00am - 7:00pm\n4 Jan 2024 (Thu) 11:00am-4:00pm",
+  "description": "",
+  "presenter": "Presented by School of Continuing and Professional Studies, The Chinese University of Hong Kong",
+  "price": "Free Admission",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d817"
+  },
+  "eventId": 150361,
+  "title": "Tuen Mun Town Hall Venue Partnership Scheme : \"The Musical Starry Legends\"  by Spring-Time Experimental Theatre",
+  "venue": {
+    "$oid": "6562084b4e16de03b6dd1b07"
+  },
+  "date": "2024/02/17(Sat)3:00PM & 7:30pm;2024/02/18(Sun)2:00PM & 5:00pm",
+  "description": "Please refer to Chinese version.",
+  "presenter": "Presented by Spring-Time Experimental Theatre",
+  "price": "$250, 190, 130\n(Consessionary discount for Full-time students and Comprehensive Social Security Assistance (CSSA) recipients on a first-come-first-served basis with limited quotas)",
+  "priceNum": 250,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133b1dd62abe6127d81c"
+  },
+  "eventId": 154856,
+  "title": "Tuen Mun Town Hall Venue Partnership Scheme :\"Destiny - The Musical\" by Spring-Time Experimental Theatre",
+  "venue": {
+    "$oid": "6562084b4e16de03b6dd1b07"
+  },
+  "date": "2023/12/25 (Mon) 8:00PM2023/12/26 (Tue) 2:00PM & 5:00PM",
+  "description": "Please refer to Chinese version.",
+  "presenter": "Presented by Spring-Time Experimental Theatre",
+  "price": "$250, 190, 130\n(Consessionary discount for Full-time students and Comprehensive Social Security Assistance (CSSA) recipients on a first-come-first-served basis with limited quotas)",
+  "priceNum": 250,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133c1dd62abe6127d821"
+  },
+  "eventId": 154857,
+  "title": "Tuen Mun Town Hall Venue Partnership Scheme :\"I Have a Date with Spring\"&nbsp; by Spring-Time Experimental Theatre",
+  "venue": {
+    "$oid": "6562084b4e16de03b6dd1b07"
+  },
+  "date": "2024/01/05 (Fri) 8:00PM;2024/01/06 (Sat) 8:00PM",
+  "description": "Please refer to Chinese version.",
+  "presenter": "Presented by Spring-Time Experimental Theatre",
+  "price": "$250, 190, 130\n(Consessionary discount for Full-time students and Comprehensive Social Security Assistance (CSSA) recipients on a first-come-first-served basis with limited quotas)",
+  "priceNum": 250,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133c1dd62abe6127d826"
+  },
+  "eventId": 154855,
+  "title": "Tuen Mun Town Hall Venue Partnership Scheme :\"Jolly World\" by Spring-Time Experimental Theatre",
+  "venue": {
+    "$oid": "6562084b4e16de03b6dd1b07"
+  },
+  "date": "2023/12/23 (Sat)3:00PM & 8:00PM;2023/12/24 (Sun)2:00PM & 5:00PM;",
+  "description": "Please refer to Chinese version.",
+  "presenter": "Presented by Spring-Time Experimental Theatre",
+  "price": "$250, 190, 130\n(Consessionary discount for Full-time students and Comprehensive Social Security Assistance (CSSA) recipients on a first-come-first-served basis with limited quotas)",
+  "priceNum": 250,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133c1dd62abe6127d82b"
+  },
+  "eventId": 154858,
+  "title": "Tuen Mun Town Hall Venue Partnership Scheme \"Cats and Mouse 2024\" by Spring-Time Experimental Theatre",
+  "venue": {
+    "$oid": "6562084b4e16de03b6dd1b07"
+  },
+  "date": "2024/01/06 (Sat) 3:00PM;2024/01/07 (Sun) 2:00PM & 5:00PM",
+  "description": "Please refer to Chinese version.",
+  "presenter": "Presented by Spring-Time Experimental Theatre",
+  "price": "$250, 190, 130\n(Consessionary discount for Full-time students and Comprehensive Social Security Assistance (CSSA) recipients on a first-come-first-served basis with limited quotas)",
+  "priceNum": 250,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133c1dd62abe6127d830"
+  },
+  "eventId": 155702,
+  "title": "Variety Show cum Ceremony",
+  "venue": {
+    "$oid": "6561fa8824cc17c2c0419fc6"
+  },
+  "date": "3/12/2023 (Sun) 14:15",
+  "description": "",
+  "presenter": "Presented by Yuen Long District Women's Association Limited",
+  "price": "HK$380, 300, 220, 140",
+  "priceNum": 380,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133c1dd62abe6127d835"
+  },
+  "eventId": 153215,
+  "title": "Various Dance Classes",
+  "venue": {
+    "$oid": "639882b82f2be6f0a280627a"
+  },
+  "date": "July-Dec 2023(Every Thur) 1930-2130",
+  "description": "",
+  "presenter": "Presented by Hong Kong Sasha Dancing Association",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133c1dd62abe6127d83a"
+  },
+  "eventId": 153275,
+  "title": "Various Dance Classes",
+  "venue": {
+    "$oid": "639882b82f2be6f0a280627a"
+  },
+  "date": "July-Dec 2023(Every Wed) 1930-2130",
+  "description": "",
+  "presenter": "Presented by Showy Ballroom Dance Association",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133c1dd62abe6127d83f"
+  },
+  "eventId": 153276,
+  "title": "Various Dance Classes",
+  "venue": {
+    "$oid": "639882b82f2be6f0a280627a"
+  },
+  "date": "July-Dec 2023(Every Wed) 2130-2300",
+  "description": "",
+  "presenter": "Presented by Showy Ballroom Dance Association",
+  "price": "Free",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133c1dd62abe6127d844"
+  },
+  "eventId": 154940,
+  "title": "Wonderful Music Singing Together",
+  "venue": {
+    "$oid": "639883718552f63953d83e04"
+  },
+  "date": "8 Dec 2023 (Fri) 2:00pm",
+  "description": "",
+  "presenter": "Presented by June Chan Chinese Opera Association",
+  "price": "Free admission by tickets",
+  "priceNum": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133c1dd62abe6127d849"
+  },
+  "eventId": 154973,
+  "title": "YIP'S INSTRUMENTAL WORKSHOP CONCERT SERIES XLV",
+  "venue": {
+    "$oid": "639883e9a8f9ff4455c22255"
+  },
+  "date": "03/12/2023(Sun)10:30;15:00;19:30",
+  "description": "",
+  "presenter": "Presented by YIP'S CHILDREN'S CHOIR LIMITED",
+  "price": "$140",
+  "priceNum": 140,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133c1dd62abe6127d84e"
+  },
+  "eventId": 155761,
+  "title": "Yuen Long Theatre Venue Partnership Scheme: \"Cantonese Opera Performance and Excerpts\" by HKPSCO",
+  "venue": {
+    "$oid": "6561fa8824cc17c2c0419fc6"
+  },
+  "date": "2023/12/23 (Sat) 1:45PM & 7:30PM ;2023/12/24 (Sun) 01:45PM ;2023/12/25 (Mon) 01:45PM & 07:30PM ;2023/12/26 (Tue) 01:45PM",
+  "description": "Please refer to the Chinese version.",
+  "presenter": "Presented by Hong Kong Performing Stage of Cantonese Opera Company Ltd.",
+  "price": "$380, $300, $240, $180, $140($380 discounted tickets for assigned seats)",
+  "priceNum": 380,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133c1dd62abe6127d853"
+  },
+  "eventId": 155763,
+  "title": "Yuen Long Theatre Venue Partnership Scheme: \"Cantonese Opera Performance and Excerpts\" by HKPSCO",
+  "venue": {
+    "$oid": "6561fa8824cc17c2c0419fc6"
+  },
+  "date": "2024/01/19 (Fri)07:30PM;2024/01/20 (Sat) 01:45PM & 07:30PM ;2024/01/21 (Sun) 01:45PM & 07:30PM",
+  "description": "Please refer to the Chinese version.",
+  "presenter": "Presented by Hong Kong Performing Stage of Cantonese Opera Company Ltd.",
+  "price": "$380, $300, $240, $180, $140($380 discounted tickets for assigned seats)",
+  "priceNum": 380,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564133c1dd62abe6127d858"
+  },
+  "eventId": 151272,
+  "title": "亞洲體藝學界朗誦比賽2023",
+  "venue": {
+    "$oid": "639881c2081f9eda5329aaf8"
+  },
+  "date": "30 Dec 2023 (Sat) 10am-2pm",
+  "description": "",
+  "presenter": "Presented by Asian Sport and Art Cultural Association",
+  "price": "Free Admission by Ticket",
+  "priceNum": 0,
+  "__v": 0
+}]

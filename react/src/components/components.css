@@ -1,0 +1,205 @@
+/* General CSS */
+:root {
+    --alice-blue: #F1FBFF;
+    --dark-grey: #222;
+    --stormy-blue: #818ea0;
+    --black-russian: #000000a6;
+    --regent-grey: #777;
+    --grey95: #f2f2f2;
+    --bg-light: #f8f9fa;
+    --blue: #703eff;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Title CSS */
+.Title {
+    font-size: 40px;
+    color: var(--dark-grey);
+    font-weight: bold;
+}
+
+/* Login CSS */
+.login-card {
+    margin-top: 150px;
+    width: 380px;
+    padding: 20px 30px 64px;
+    border-radius: 1.25rem;
+    background: var(--alice-blue);
+    text-align: center;
+    height: 500px;
+}
+
+.specailText {
+    color: var(--stormy-blue);
+}
+
+.imgage {
+    border-radius: 50px;
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.userId,
+.password {
+    width: 250px;
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+
+.btn {
+    background-color: var(--blue);
+    color: white;
+    width: 100px;
+}
+
+/* Home CSS */
+.Home {
+    margin-top: 100px;
+    padding: 20px 30px 64px;
+    text-align: center;
+}
+
+.Home card {
+    width: 200px;
+    border-radius: 1.25rem;
+    background: var(--alice-blue);
+}
+
+/* Location Page CSS */
+.location {
+    margin-top: 20px;
+    background-color: var(--alice-blue);
+    margin-left: 20px;
+    height: 400px;
+    margin-bottom: 20px;
+}
+
+.location h2 {
+    background: var(--alice-blue);
+    color: var(--dark-grey);
+    text-align: center;
+}
+
+.location p {
+    background: var(--alice-blue);
+    color: var(--dark-grey);
+    margin-left: 45px;
+    text-align: left;
+}
+
+.locationMap {
+    justify-content: left;
+}
+
+.wrapper {
+    width: 95%;
+    overflow-y: scroll;
+    position: relative;
+    height: 250px;
+    margin: 5px;
+}
+
+.locationButton {
+    margin-left: 80px;
+    margin-bottom: 20px;
+    background-color: var(--regent-grey);
+    color: var(--alice-blue);
+    height: 30px;
+    width: 300px;
+    text-align: center;
+    border-radius: 100px;
+}
+
+.eventbtn {
+    width: 80%;
+    background-color: var(--grey95);
+    color: #C1666B;
+    margin: 2%;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.eventbtn:hover {
+    background-color: var(--regent-grey);
+    color: var(--alice-blue);
+}
+
+#limit {
+    width: 80%;
+    background-color: var(--grey95);
+    font-size: 25px;
+    border-radius: 5px;
+    border: 2px solid var(--blue);
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+
+.filter {
+    margin-top: 100px;
+    background-color: var(--alice-blue);
+    height: 200px;
+    width: 360px;
+    margin-bottom: 20px;
+}
+
+.filter h2 {
+    background: var(--alice-blue);
+    color: var(--dark-grey);
+    text-align: center;
+    font-size: 25px;
+}
+
+.filterButton {
+    margin-left: 30px;
+    margin-bottom: 10px;
+    background-color: var(--regent-grey);
+    color: var(--alice-blue);
+    height: 30px;
+    width: 260px;
+    text-align: center;
+    border-radius: 100px;
+}
+
+.commentCard {
+    margin-top: 20px;
+    background-color: var(--alice-blue);
+    margin-left: 20px;
+    height: 800px;
+    margin-bottom: 20px;
+}
+
+.commentCard h2 {
+    background: var(--alice-blue);
+    color: var(--dark-grey);
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.commentText {
+    font-size: 12px;
+}
+
+.commentText h2,
+.commentText h3 {
+    font-size: 18px;
+}
+
+.locationCard {
+    margin-top: 20px;
+    background-color: var(--alice-blue);
+    margin-left: 20px;
+    height: 1050px;
+    margin-bottom: 20px;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
